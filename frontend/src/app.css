@@ -1,0 +1,16 @@
+* {
+  font-family: "poppins", sans-serif;
+}
+
+img {
+  object-fit: contain;
+}
+
+hr {
+  margin: 0;
+}
+
+.hidden {
+  display: none;
+  visibility: hidden;
+}
